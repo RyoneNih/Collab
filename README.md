@@ -1,9 +1,9 @@
 ### Moshi Moshi~
-•  \          /
-    \       /
-     \     /
-•     \  /
-       \/
+
+
+
+
+
 
 
 <p align="center">
